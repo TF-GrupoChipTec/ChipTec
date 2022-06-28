@@ -10,7 +10,7 @@ Hiram Ricardo Rojas Vilca
 
 Marcos Smith Olivos Alcas
 
-Stephano Giovanni Roca Zela
+Stefano Giovanni Roca Zela
 
 Los segmentos objetivos elegidos fueron los clientes y los tecnicos.
 
